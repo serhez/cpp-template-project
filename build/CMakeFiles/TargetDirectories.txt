@@ -1,0 +1,4 @@
+/Users/Ser/Projects/cpp-boolean-calculator/build/CMakeFiles/rebuild_cache.dir
+/Users/Ser/Projects/cpp-boolean-calculator/build/CMakeFiles/edit_cache.dir
+/Users/Ser/Projects/cpp-boolean-calculator/build/CMakeFiles/tests.dir
+/Users/Ser/Projects/cpp-boolean-calculator/build/CMakeFiles/example.dir
